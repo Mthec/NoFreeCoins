@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run NonBeta Server (Rebuild)" type="JarApplication">
+    <option name="JAR_PATH" value="E:/Steam/steamapps/common/Wurm Unlimited/WurmServerLauncher/modlauncher.jar" />
+    <option name="VM_PARAMETERS" value="&quot;-Djava.library.path=E:\Steam\steamapps\common\Wurm Unlimited\WurmServerLauncher\nativelibs&quot; -agentlib:jdwp=transport=dt_shmem,server=y,suspend=n,address=asdf" />
+    <option name="WORKING_DIRECTORY" value="E:\Steam\steamapps\common\Wurm Unlimited\WurmServerLauncher\" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="E:/Steam/steamapps/common/Wurm Unlimited/runtime" />
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="jar" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+    </method>
+  </configuration>
+</component>
