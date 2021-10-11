@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "mod.wurmunlimited"
-version = "0.1"
+version = "0.1.1"
 val shortName = "nofreecoins"
 val wurmServerFolder = "E:/Steam/steamapps/common/Wurm Unlimited/WurmServerLauncher/"
 
